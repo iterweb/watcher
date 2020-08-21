@@ -21,7 +21,7 @@ def on_script(): # функция запуска скрипта
             main()
 
 def main():
-    mouse.position = m_position # переводит курсор по заданным координатам
+    mouse.position = m_position # переводит курсор по заданным координатам из 12 строки
     while mouse.position == m_position: # проверка, находится ли курсор в заданных координатах
         time.sleep(0.5)
         if keyboard.is_pressed('alt+a'): # вкл. ожидания 
