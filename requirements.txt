@@ -1,0 +1,12 @@
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+keyboard==0.13.5
+mss==6.1.0
+numpy==1.19.4
+opencv-python==4.4.0.46
+pynput==1.7.2
+pyTelegramBotAPI==3.7.4
+requests==2.25.1
+six==1.15.0
+urllib3==1.26.2
