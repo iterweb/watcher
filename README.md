@@ -17,7 +17,8 @@
 * pyinstaller -F --onefile --nocosole main.py
 
 Создайте ярлык программы и добавьте в автозагрузку: c:\Users\ЛОГИН УЧЕТНОЙ ЗАПИСИ\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup это позволит запускаться программе даже после перезагрузки системы.
-
+### Donate
+If you want, you can [support](https://destream.net/live/iterweb/donate) me!
 * Комбинация клавишь **alt+a** (41 строка) переведет программу в режим ожидания и переместит курсор на координаты 500, 500 (для понимамия, что программа не активна)
 * Комбинация клавишь **ctrl+alt** (33 строка) переведет программу в активный режим
 
